@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hordenku</string>
+    <string name="lorem">Anak Muda yang selalu ingin belajar, saya sangat bersemangat tentang materi programming karena itu akan menambah ide kreatif bagi saya dan untuk aplikasi yang saya kembangkan</string>
+    <string name="ig">\@miftahjuanda</string>
+    <string name="fb">miftah juanda</string>
+    <string name="ipsum">SD Negeri 122365 - 2003"\n"SMP Yayasan Perguruan Keluarga - 2009"\n"SMK-2 Taman Siswa - 2016"\n"Politeknik Bisnis Indonesia - 2017 </string>
+    <string name="lorem_experience">Mechanic   2013 -> 2015"\n"Staff Administration School   2015 -> currently"\n"Freelancer at Mine Tech Solution   2019 -> currently</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="ukuran_bahan"><![CDATA[Ukuran & bahan]]></string>
+    <string name="fitur">Fitur</string>
+    <string name="kelebihan">Kelebihan</string>
+    <string name="bahan">Bahan</string>
+
+</resources>
